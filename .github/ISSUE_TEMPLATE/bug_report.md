@@ -1,6 +1,6 @@
 ---
-Name: Bug Report
-About: Report a bug in Transfer Enchants
+Name: "Bug Report"
+About: "Report a bug in Transfer Enchants"
 Title: "[Bug]: "
 Labels: bug
 Assignees: ""
