@@ -1,9 +1,9 @@
 ---
-Name: ""
-About: ""
-Title: "[Bug]: "
-Labels: bug
-Assignees: ""
+name: "Bug Report"
+about: "Report a bug in Transfer Enchants"
+title: "[Bug]: "
+labels: bug
+assignees: ""
 ---
 
 ## Minecraft Version
