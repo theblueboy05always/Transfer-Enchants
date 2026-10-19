@@ -1,9 +1,13 @@
 
 ---
 name: "💡 Feature Request"
+
 about: "Suggest a new feature or improvement for Transfer Enchants"
+
 title: "[Feature]: "
+
 labels: enhancement
+
 assignees: ""
 ---
 
